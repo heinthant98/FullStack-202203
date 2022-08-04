@@ -11,4 +11,4 @@ Repository for online class of JDC
 
 5.Test_pull_req
 
-Test branch Rules
+Test branch Ruless
