@@ -10,3 +10,5 @@ Repository for online class of JDC
 4.pull to local
 
 5.Test_pull_req
+
+Test branch Rule
